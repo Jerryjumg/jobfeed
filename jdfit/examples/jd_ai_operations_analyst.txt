@@ -1,0 +1,29 @@
+AI Operations Analyst
+Example Logistics Co. (synthetic posting written for testing jdfit)
+
+About the Role
+Our operations teams still copy data between spreadsheets, email and our ticketing system by hand. You will find those processes, measure them, and replace them with small automations and AI-assisted workflows that people actually trust.
+
+What You'll Do
+- Interview operations staff to map manual, repetitive workflows
+- Build automations in Python that connect internal tools through REST APIs and webhooks
+- Prototype LLM-based helpers for document triage and write clear runbooks for them
+- Build dashboards that show time saved and error rates
+- Maintain documentation so others can extend what you build
+
+Qualifications
+- 0-2 years of experience in an analytical or technical role
+- Working knowledge of Python and SQL
+- Experience integrating APIs and working with JSON
+- Familiarity with generative AI tools and prompt engineering
+- Comfortable with Git and GitHub
+- Strong written communication
+
+Preferred
+- Experience with Power Automate or Zapier
+- Exposure to Power BI or Tableau
+- Familiarity with Azure
+
+Benefits
+- Health, dental, vision
+- 401(k) with match

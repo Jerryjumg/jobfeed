@@ -1,0 +1,17 @@
+# Personal data produced by daily runs: never commit
+jobfeed/Jobs_*.xlsx
+jobfeed/Alerts_*.xlsx
+jobfeed/seen.json
+jobfeed/state.json
+jobfeed/last_output.txt
+jobfeed/alerts_inbox/
+jobfeed/alerts_seen.json
+jobfeed/rescore_seen.tmp.json
+jobfeed/*.backup*
+jdfit/profile.json
+Connections.csv
+*.pdf
+~$*
+__pycache__/
+.DS_Store
+.venv/

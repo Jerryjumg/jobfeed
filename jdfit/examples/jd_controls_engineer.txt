@@ -1,0 +1,12 @@
+Controls Systems Engineer
+Example Aerospace Manufacturing (synthetic posting written for testing jdfit)
+
+Requirements
+- Active security clearance required
+- 2+ years of experience with PLC programming and SCADA
+- Ignition by Inductive Automation, MQTT, OPC UA
+- Track OEE across production lines
+- Power BI reporting
+
+Preferred Qualifications
+- Six Sigma Green Belt

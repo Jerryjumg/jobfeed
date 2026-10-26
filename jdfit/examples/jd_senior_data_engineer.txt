@@ -1,0 +1,13 @@
+Senior Data Engineer
+Example Retail Group (synthetic posting written for testing jdfit)
+
+What we're looking for:
+- 5+ years of experience building production data pipelines
+- Expert SQL and Python; experience with Spark or PySpark
+- Snowflake, dbt and Airflow
+- AWS (S3, Glue, Lambda) and Terraform
+- Kubernetes experience is a plus
+
+What you'll do:
+- Own our ETL platform end to end
+- Mentor junior engineers

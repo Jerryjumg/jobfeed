@@ -1,0 +1,17 @@
+{
+  "_comment": "Example profile. Copy to profile.json and list your own skills using the canonical names in taxonomy.json. 'have' means you can speak to real work with it; 'learning' is shown in reports but never counted as a match.",
+  "name": "Example Candidate",
+  "max_years_required": 2,
+  "have": [
+    "iOS", "Swift", "SwiftUI", "UIKit", "Xcode", "Core Data", "Core Haptics", "AVFoundation", "TestFlight",
+    "React Native", "Accessibility",
+    "Python", "JavaScript", "TypeScript", "SQL", "T-SQL",
+    "React", "Node.js", "Express.js", "NestJS", "HTML/CSS",
+    "REST APIs", "APIs", "JSON", "Stripe", "Twilio",
+    "MongoDB", "PostgreSQL", "SQL Server",
+    "Git", "GitHub", "Agile/Scrum", "Code review", "Technical documentation",
+    "AI / LLMs", "AI coding tools", "Workflow automation", "ETL / data pipelines", "Excel"
+  ],
+  "learning": ["Power BI", "MES", "Go", "AWS"],
+  "red_flags": ["security clearance", "active clearance", "clearance required", "phd required", "must have a phd"]
+}

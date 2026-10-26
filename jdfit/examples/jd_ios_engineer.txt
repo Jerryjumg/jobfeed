@@ -1,0 +1,23 @@
+iOS Engineer I
+Example Health Apps (synthetic posting written for testing jdfit)
+
+We build a patient companion app used by people with low vision and limited mobility, so accessibility is a first-class requirement.
+
+Responsibilities
+* Build new features in Swift and SwiftUI, with UIKit where legacy screens remain
+* Write unit tests with XCTest and UI tests with XCUITest
+* Work with backend engineers on REST APIs and JSON contracts
+* Ship builds through TestFlight and participate in code review
+
+Requirements
+* 1+ years of experience building iOS apps (internships count)
+* Strong Swift and SwiftUI skills
+* Working knowledge of VoiceOver and Dynamic Type
+* Experience with Core Data or another persistence layer
+* Git, Agile/Scrum
+
+Nice to Have
+* Combine, async/await
+* Experience with Core Haptics or AVFoundation
+* Kotlin or Android exposure
+* CI/CD with GitHub Actions or Bitrise
